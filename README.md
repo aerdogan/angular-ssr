@@ -1,32 +1,7 @@
-<<<<<<< HEAD
-# angular-ssr
-Angular Server Side Rengering Example
-=======
-# Deneme
+# ng new angular-ssr && cd angular-ssr
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
+# ng add @nguniversal/express-engine
 
-## Development server
+# npm run build:ssr && npm run serve:ssr
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
->>>>>>> 8de5436 (initial commit)
+![image](https://user-images.githubusercontent.com/193318/179057602-c57e1467-6b2a-432b-a374-0f62ce6639ae.png)
